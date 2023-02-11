@@ -6,3 +6,7 @@
 </div>
 
 Mathematical problems published on the Project Euler website and solved in the C-Programming Language
+
+## EXERCISE 1
+
+[Explanation and Code](https://github.com/aggranadoss/project_euler/tree/main/exercises/1)
