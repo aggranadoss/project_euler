@@ -1,0 +1,1 @@
+Let $\theta^A_i$ and $\theta^B_i$ denote
